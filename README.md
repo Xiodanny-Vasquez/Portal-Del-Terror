@@ -1,2 +1,3 @@
 # Portal-Del-Terror
-proyecto
+proyecto 
+añadir nuevos objetivos del portal del terror
